@@ -1,0 +1,28 @@
+{
+  "name": "heroku-express-pdf",
+  "version": "0.0.1",
+  "description": "Example of how to deploy a Express.js Netlify app.",
+  "main": "screen-shot.js",
+  "scripts": {
+    "start": "node screen-shot.js"
+  },
+  "repository": {
+    "type": "git"
+  },
+  "keywords": [
+    "heroku",
+    "express.js"
+  ],
+  "author": "deepak",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/neverendingqs/netlify-express/issues"
+  },
+  "homepage": "https://github.com/neverendingqs/netlify-express#readme",
+  "dependencies": {
+    "puppeteer": "^9.0.0"
+  },
+  "devDependencies": {
+    "express": "^4.17.1"
+  }
+}
